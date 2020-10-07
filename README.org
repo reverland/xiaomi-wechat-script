@@ -1,0 +1,11 @@
+#+TITLE: 小米手机微信数据修改
+
+把大象放进n冰箱
+
+1. 使用MIUI备份功能进行备份
+2. bash xiaomi.sh <dest_dir>
+3. 还原
+
+** Warning!!
+
+disk space eater
